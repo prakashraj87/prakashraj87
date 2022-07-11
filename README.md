@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prakashraj87
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java
+- 💞️ I’m looking for internship
 - 📫 How to reach me +91 8797274666
 
 <!---
